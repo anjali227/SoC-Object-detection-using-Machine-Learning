@@ -8,3 +8,7 @@ Completed a course on ML online which covered following topics:
 6. Neural Networks
 7. Support Vector Machines
 8. Dimensionality Reduction
+
+Completed Specialization on Machine learning
+
+And learnt about object detection from online resources.
